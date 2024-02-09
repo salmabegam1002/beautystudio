@@ -959,7 +959,8 @@
         margin-top: 2em;
     }
     .article_style_boxed .sidebar,
-    .body_filled .sidebar[class*="scheme_"] {}.slider_over_content_inner {
+    .body_filled .sidebar[class*="scheme_"],
+    .slider_over_content_inner {
         padding: 1.5em;
     }
     .slider_over_content .sc_form_message textarea {
